@@ -84,7 +84,7 @@ File Structure
 
 *windows/: Contains Windows-specific code and configurations.
 
-Usage
+Usage:
 
 *Sign up or log in to the SkyShare app using your credentials.
 
